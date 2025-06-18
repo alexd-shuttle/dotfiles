@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-alias asdf="echo asdf is working"
-echo "Hello dev container!"
+echo "echo \"Hello dev container!\"" >> ~/.bashrc
